@@ -4,5 +4,6 @@ public class FirstCode {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("这是一个weizr分支");
+         System.out.println("这是一个weizr分支");
     }
 }
